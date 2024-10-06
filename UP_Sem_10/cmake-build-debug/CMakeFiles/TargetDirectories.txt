@@ -1,0 +1,3 @@
+/Users/eniselkunch/CLionProjects/UP_Sem_10_Terziev/cmake-build-debug/CMakeFiles/UP_Sem_10_Terziev.dir
+/Users/eniselkunch/CLionProjects/UP_Sem_10_Terziev/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/eniselkunch/CLionProjects/UP_Sem_10_Terziev/cmake-build-debug/CMakeFiles/rebuild_cache.dir

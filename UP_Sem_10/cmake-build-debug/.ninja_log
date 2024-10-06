@@ -1,0 +1,7 @@
+# ninja log v5
+1	173	1728207605022869606	build.ninja	cfd08e9dd954b9ca
+0	322	1728207605360419395	CMakeFiles/UP_Sem_10_Terziev.dir/SearchInText.cpp.o	8a275aabb5cc34a0
+1	1361	1728207606396267334	CMakeFiles/UP_Sem_10_Terziev.dir/getCharOccurrencesCount.cpp.o	ef07ad974c36f9e3
+1368	1464	1728207606504581887	UP_Sem_10_Terziev	67272a25f150659d
+5	770	1728207625052714697	CMakeFiles/UP_Sem_10_Terziev.dir/getCharOccurrencesCount.cpp.o	ef07ad974c36f9e3
+771	848	1728207625135345012	UP_Sem_10_Terziev	67272a25f150659d
