@@ -1,6 +1,0 @@
-# ninja log v5
-0	137	1728138703758443720	build.ninja	1e07a733bef01cd7
-0	354	1728138394330509210	CMakeFiles/UP_Sem_6_Terziev.dir/LinearSearch.cpp.o	11ea300414e96cb8
-1	354	1728138394330518387	CMakeFiles/UP_Sem_6_Terziev.dir/BinarySearch.cpp.o	596efd6b9f1e699c
-5	694	1728138494859404365	CMakeFiles/UP_Sem_6_Terziev.dir/ReverseArray.cpp.o	374768e41afb918f
-694	749	1728138494920129321	UP_Sem_6_Terziev	cb2241bfd651c31b
