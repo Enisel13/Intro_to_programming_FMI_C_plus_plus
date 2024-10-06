@@ -1,4 +1,6 @@
 CMakeLists.txt
-.idea/*
+UP_Sem_6/.idea/*
+UP_Sem_10/.idea/*
+UP_Sem_9/.idea/*
 .DS_Store
 cmake-build-debug/*
