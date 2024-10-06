@@ -4,7 +4,7 @@ project(UP_Sem_6_Terziev)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(UP_Sem_6_Terziev
-        LinearSearch.cpp
-        BinarySearch.cpp
-        ReverseArray.cpp
-        SelectionSort.cpp)
+        Solutions/LinearSearch.cpp
+        Solutions/BinarySearch.cpp
+        Solutions/ReverseArray.cpp
+        Solutions/SelectionSort.cpp)
