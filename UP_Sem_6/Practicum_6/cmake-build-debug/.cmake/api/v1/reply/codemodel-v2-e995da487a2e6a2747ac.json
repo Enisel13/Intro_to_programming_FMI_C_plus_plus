@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Practicum_6",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Practicum_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Practicum_6-Debug-c5c6136861b7183dd5d5.json",
+					"name" : "Practicum_6",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/eniselkunch/Documents/CLionProjects/Intro_to_programming_FMI_C_plus_plus/UP_Sem_6/Practicum_6/cmake-build-debug",
+		"source" : "/Users/eniselkunch/Documents/CLionProjects/Intro_to_programming_FMI_C_plus_plus/UP_Sem_6/Practicum_6"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

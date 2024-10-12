@@ -1,0 +1,3 @@
+/Users/eniselkunch/Documents/CLionProjects/Intro_to_programming_FMI_C_plus_plus/UP_Sem_6/Practicum_6/cmake-build-debug/CMakeFiles/Practicum_6.dir
+/Users/eniselkunch/Documents/CLionProjects/Intro_to_programming_FMI_C_plus_plus/UP_Sem_6/Practicum_6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/eniselkunch/Documents/CLionProjects/Intro_to_programming_FMI_C_plus_plus/UP_Sem_6/Practicum_6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
